@@ -1,0 +1,2 @@
+# wallyapi
+The Wally API
